@@ -5,4 +5,10 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="MenuBuilder">
+      <HintPath>..\..\..\..\..\week2\day04\Shayetet6\Shayetet6\MenuBuilder.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
